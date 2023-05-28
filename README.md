@@ -9,3 +9,10 @@ ProjectDescriptionAmerican Sign Language (ASL) is the primary language used by m
 7. Train the model
 8. Test the model
 9. Visualize mistakes
+# ProjectDescription
+## Task1:
+First, load the dataset using a special helper file (sign_language.py).Run the code cell as-is, without modification.
+## Task2:
+Use matplotlib to visualize some of the images in the training dataset.Assign labels to a Python list with three items: 'A', 'B', and 'C', corresponding to thesigned letters that appear in the images.
+## Task3:
+Count the number of occurrences of each letter in the train and test datasets.Assign the variable num_B_train to an integer counting the number of times that 1 appearsin y_train.Assign the variable num_C_train to an integer counting the number of times that 2 appearsin y_train.Assign the variable num_B_test to an integer counting the number of times that 1 appearsin y_test.Assign the variable num_C_test to an integer counting the number of times that 2 appearsin y_test.
